@@ -1,0 +1,7 @@
+C:\Users\star\source\repos\CRUD_Operations\bin\Debug\CRUD_Operations.exe.config
+C:\Users\star\source\repos\CRUD_Operations\bin\Debug\CRUD_Operations.exe
+C:\Users\star\source\repos\CRUD_Operations\bin\Debug\CRUD_Operations.pdb
+C:\Users\star\source\repos\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.AssemblyReference.cache
+C:\Users\star\source\repos\CRUD_Operations\obj\Debug\CRUD_Operations.csproj.CoreCompileInputs.cache
+C:\Users\star\source\repos\CRUD_Operations\obj\Debug\CRUD_Operations.exe
+C:\Users\star\source\repos\CRUD_Operations\obj\Debug\CRUD_Operations.pdb
