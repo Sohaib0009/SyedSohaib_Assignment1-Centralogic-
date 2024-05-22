@@ -3,7 +3,6 @@ Explanation:
 I have Created three Separate Classes (C# code files) which are Item.cs, Invemtory.cs, Program.cs
 
 Item Class:
-
 Represents individual items in the inventory with properties for ID, Name, Price, and Quantity.
 Includes a constructor for initializing item attributes and an overridden ToString method for displaying item details.
 
