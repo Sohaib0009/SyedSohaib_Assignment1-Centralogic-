@@ -1,4 +1,4 @@
-_**I have Created Three Classes (C# file) which are Item.cs, Inventory.cs, Program.cs the detail explaination as follow.**__
+_**I have Created Three Classes (C# file) which are Item.cs , Inventory.cs and Program.cs the detail explaination as follow.**__
 
 **💡 Item Class:**
 
