@@ -1,4 +1,4 @@
-![inventory2](https://github.com/Sohaib0009/SyedSohaib_DotNet_Assignment_Centralogic/assets/97386434/d51ff93e-5181-4578-8e70-a9a286c3aebb)Explanation:
+Explanation:
 
 Item Class:
 
